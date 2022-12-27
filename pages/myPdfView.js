@@ -54,43 +54,43 @@ const styles = StyleSheet.create({
         flexDirection: 'row'
     },
     headerTo: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 75
     },
     headerCountry: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 57
     },
     headerInstitutionName: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 57
     },
     headerInstitutionDetail: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 12
     },
     headerCourseName: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 51
     },
     headerWebsite: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 31
     },
     headerPeriod: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 13
     },
     headerIntake: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 48
     },
     headerRemark: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 51
     },
     headerMoreDetail: {
-        fontFamily: 'SukhumvitSet-SemiBold',
+        fontFamily: 'SukhumvitSet-Bold',
         paddingRight: 12
     },
     content: {
