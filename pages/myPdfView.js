@@ -159,7 +159,7 @@ export default function MyPdfView() {
 
                 <View style={styles.headerContainer}>
                     <Text style={styles.headerWebsite}>เว็บไซต์ (URL):</Text>
-                    <Text style={styles.content}>http://www.deakin.edu.au/course/master-architecture-des</Text>
+                    <Text style={styles.content} src="http://www.deakin.edu.au/course/master-architecture-des">http://www.deakin.edu.au/course/master-architecture-des</Text>
                 </View>
 
                 <View style={styles.headerContainer}>
